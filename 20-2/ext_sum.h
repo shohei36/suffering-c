@@ -1,0 +1,1 @@
+int extended_sum(int min, int max);
